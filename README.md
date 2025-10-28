@@ -1,4 +1,4 @@
-# Premier League — Results, Shots & Poisson Score Model
+# Premier League - Results, Shots & Poisson Score Model
 
 Small–mid scale project: download EPL match data from **football-data.co.uk**, build a quick league table and rolling form, and use a **Poisson model** to estimate team attacking/defensive strengths and match outcome probabilities.
 
